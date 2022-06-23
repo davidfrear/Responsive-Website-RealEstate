@@ -1,7 +1,5 @@
 Website Link: https://davidfrear.github.io/Responsive-Website-RealEstate/
 
-# 🏡 Responsive Real Estate Website
-
 - Responsive Real State Website Using HTML CSS & JavaScript
 - Contains animations when scrolling.
 - Includes a dark and light mode.
